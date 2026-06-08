@@ -1,0 +1,8 @@
+name = "real-time-news"
+pages_build_output_dir = "dist/output/public"
+compatibility_date = "2024-10-03"
+
+[[d1_databases]]
+binding = "NEWSNOW_DB"
+database_name = "real-time-news-db"
+database_id = "8193343e-4efd-447f-9fd9-5a7706bf83f3"
