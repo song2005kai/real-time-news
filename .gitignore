@@ -11,4 +11,3 @@ dev-dist
 imports.app.d.ts
 package-lock.json
 .specstory/
-.abs
